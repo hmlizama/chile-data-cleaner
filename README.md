@@ -120,8 +120,4 @@ La librería reconoce todas las 16 regiones de Chile según la codificación ofi
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 📞 Contacto
-
-Tu Nombre - tu.email@ejemplo.com
-
 Link del Proyecto: [https://github.com/tu-usuario/chile-data-cleaner](https://github.com/tu-usuario/chile-data-cleaner)
