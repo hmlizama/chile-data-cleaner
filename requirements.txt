@@ -1,0 +1,3 @@
+# Dependencias de producción
+# Por ahora no hay dependencias externas requeridas
+# La librería usa solo módulos de la biblioteca estándar de Python

@@ -1,0 +1,11 @@
+# Dependencias de desarrollo y testing
+pytest>=6.0
+pytest-cov>=2.0
+black>=22.0
+flake8>=4.0
+mypy>=0.910
+
+# Dependencias opcionales para desarrollo
+twine>=4.0  # Para subir a PyPI
+wheel>=0.37  # Para crear distribuciones
+setuptools>=60.0  # Para empaquetado
